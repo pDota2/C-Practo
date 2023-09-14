@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\practossssss1\practossssss1\bin\Release\practossssss1.exe.config
+C:\Users\Admin\source\repos\practossssss1\practossssss1\bin\Release\practossssss1.exe
+C:\Users\Admin\source\repos\practossssss1\practossssss1\bin\Release\practossssss1.pdb
+C:\Users\Admin\source\repos\practossssss1\practossssss1\obj\Release\practossssss1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\practossssss1\practossssss1\obj\Release\practossssss1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\practossssss1\practossssss1\obj\Release\practossssss1.exe
+C:\Users\Admin\source\repos\practossssss1\practossssss1\obj\Release\practossssss1.pdb
